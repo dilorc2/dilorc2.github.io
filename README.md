@@ -1,4 +1,4 @@
-## Getting Started
+## This is my personal website
 
-* To use my template, fork this repository on GitHub
+* Feel free to fork this repository
 
